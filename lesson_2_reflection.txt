@@ -5,14 +5,15 @@ How is the staging area different from the working directory and the repository?
 	the staging area holds an item or items before making a commit
 
 How can you use the staging area to make sure you have one commit per logical change?
+	stage each logical change as they are made
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	branches will help keep various versions of resumes and documents easily retrivable
 
 How do the diagrams help you visualize the branch structure?
+	the diagrams looked like a tree that goes through growth spurts and sends out a new branch at different intervals
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	the game no longer works
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
