@@ -8,7 +8,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 	stage each logical change and then commit
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-	branches will help keep various versions of resumes and documents easily retrivable
+	branches will help keep various versions of resumes and documents easily retrivable and editable
 
 How do the diagrams help you visualize the branch structure?
 	the diagrams looked like a tree that goes through growth spurts and sends out a new branch at different intervals
