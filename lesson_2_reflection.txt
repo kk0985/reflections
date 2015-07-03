@@ -14,6 +14,6 @@ How do the diagrams help you visualize the branch structure?
 	the diagrams look like a tree that goes through growth spurts and sends out a new branch at different intervals
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-	the game no longer works
+	merging results in one modified project; the merge is represented in the diagram the way it is because it shows the commits of both branches are combined.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
